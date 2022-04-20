@@ -1,5 +1,5 @@
 # MockupUFU
-A proposta do projeto tem como base o desenvolvimento de um mockup de aplicativo para o retorno às aulas presenciais da UFU (Universidade Federal de Uberlândia), auxiliando no controle e segurança de alunos e docentes. O projeto foi realizado para a disciplina de Introdução a Sistemas de Informação, no primeiro demestre do curso Jan/2022
+A proposta do projeto tem como base o desenvolvimento de um mockup de aplicativo para o retorno às aulas presenciais da UFU (Universidade Federal de Uberlândia), auxiliando no controle e segurança de alunos e docentes. O projeto foi realizado para a disciplina de Introdução a Sistemas de Informação, no primeiro demestre do curso.
 
 ## Visão Geral
 
