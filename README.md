@@ -1,5 +1,5 @@
 # MockupUFU
-A proposta do projeto era fazer um mockup de aplicativo para o retorno às aulas presenciais da UFU (Universidade Federal de Uberlândia), auxiliando no controle e segurança de alunos e docentes.
+A proposta do projeto tem como base o desenvolvimento de um mockup de aplicativo para o retorno às aulas presenciais da UFU (Universidade Federal de Uberlândia), auxiliando no controle e segurança de alunos e docentes.
 
 ## Visão Geral
 
