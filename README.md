@@ -19,6 +19,7 @@ A leitura do QR Code na área de “Passe diário” também é exigida ao entra
 ## Mapa do Campus
 
 A área “Mapa do Campus” mostra o mapa da UFU destacando os níveis de aglomeração, níveis esses: Baixo (Verde), Médio (Amarelo), Alto (Vermelho).
+
 ![niveis de aglomeração](https://user-images.githubusercontent.com/98183768/164262108-ad25ede6-27a5-4aed-ba57-4c768c4ccdb7.jpg)
 
 As informações são coletadas por meio da localização GPS com auxílio da funcionalidade do “Passe livre” e a leitura de QR Code ao acessar áreas internas da faculdade.
