@@ -30,6 +30,14 @@ As informações são coletadas por meio da localização GPS com auxílio da fu
 
 A área em questão mostrará o comprovante de vacinação emitido pelo SUS das duas doses contra a covid-19. O comprovante aqui registrado poderá ser usado tanto dentro da UFU, quanto fora dela.
 
+![vacina](https://user-images.githubusercontent.com/98183768/164262645-997f4c4b-bd15-4ca6-a26a-6b260ae89af9.png)
+
 ## Notificações fora do APP
 
 Assim que o aplicativo for aberto, o usuário receberá uma notificação, como uma espécie de lembrete, para se manter protegido dentro do Universidade. As notificações serão recebidas exporadicamente durante o dia. As mensagens são dicas de prevenção, como manter a mascara cobrindo a boca e o nariz, uso de álcool gel, etc. 
+
+![notificação](https://user-images.githubusercontent.com/98183768/164262746-b335c08b-8e10-4f45-b646-5ddceadb7867.png)
+
+### Bibliografia
+
+O conceito da aplicação foi inteiramente desenvolvido pelas plataformas de manipulação gráfica Adobe Photoshop 2020 & Adobe Ilustrator 2019.
