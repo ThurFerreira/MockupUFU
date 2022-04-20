@@ -3,7 +3,7 @@ A proposta do projeto era fazer um mockup de aplicativo para o retorno às aulas
 
 ## Visão Geral
 
-Primeiramente nos deparamos com a interface do Menu, onde há todas as funcionalidades do aplicativo, nessa interface dividimos em alguns setores, na parte superior com informações de localização do aluno (Campus e local no campus), o nível de aglomeração do local que se encontra e o estado atual do seu passe.
+Primeiramente, nos deparamos com a interface do Menu, onde há todas as funcionalidades do aplicativo, nessa interface dividimos em alguns setores, na parte superior com informações de localização do aluno (Campus e local no campus), o nível de aglomeração do local que se encontra e o estado atual do seu passe.
 Já porção central nos deparamos com as funcionalidades principais do aplicativo, que serão explicadas adiante. Junto há uma mensagem contendo medidas de proteção pessoal contra o vírus.
 Já na parte inferior do menu nos deparamos com notícias e estatísticas da Covid-19 na cidade que se encontra o campus do aluno.
 
